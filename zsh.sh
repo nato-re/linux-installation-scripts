@@ -47,3 +47,4 @@ zinit light zsh-users/zsh-completions
 # Vscode terminal with zsh
 sed -i "s/"terminal.integrated.shell.osx": ".*"/"terminal.integrated.shell.osx": "/bin/zsh"" ~/.vscode/argv.json
 
+## Upgrade will be download the .zshrc file and the .vscode/argv.json

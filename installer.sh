@@ -9,6 +9,7 @@
 ./mongo.sh
 ./mongosh.sh
 ./docker.sh
+./python.sh
 ./elixir.sh
 
 ### Programas e itens não obrigatórios (tudo está comentado, caso queira alguma coisa, descomente a linha e rode o script novamente
