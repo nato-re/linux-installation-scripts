@@ -3,7 +3,7 @@ export PATH=$HOME/bin:/usr/local/bin:$PATH
 export ZSH_CUSTOM="$HOME/.oh-my-zsh/custom"
 
 # Path to your oh-my-zsh installation.
-export ZSH="/home/nato/.oh-my-zsh"
+export ZSH="$HOME/.oh-my-zsh"
 
 # aliases
 alias python=python3
