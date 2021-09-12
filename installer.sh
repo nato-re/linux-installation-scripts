@@ -18,6 +18,8 @@
 ./brave.sh
 ./fonts.sh
 ./zsh.sh
+./httpie.sh
+./insomnia.sh
 #./change-desktop-folder-name.sh
 #./plank.sh
 #./genymotion.sh
